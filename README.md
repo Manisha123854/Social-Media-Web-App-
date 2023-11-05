@@ -27,8 +27,7 @@ This repository documents the development of a social media app using Django and
 - Focus on enhancing the social feed project with the introduction of a comment model.
 - Updates to the redirect URL after login and enhancement of the navigation bar.
 - Introduction of a "post detail" view to display individual posts and comments.
-- Touches on HTML and CSS changes, including creating a button for returning to the feed.
-- Creation of a comment form and a "Comment" model in Django.
+
 
 ## Stage 4: Finalizing Post and Comment Functionality
 
@@ -37,7 +36,7 @@ This repository documents the development of a social media app using Django and
 - Implementation of user-generated comments listed under posts, with the newest comments displayed first.
 - Implementation of edit and delete buttons for posts, visible only to the post's author.
 - Utilization of Django's generic views and mix-ins to restrict access based on user authorization.
-.- Successful implementation of create, read, update, and delete functionality for both posts and comments in the application.
+- Successful implementation of create, read, update, and delete functionality for both posts and comments in the application.
 
 ## Stage 5: User Profiles Implementation
 
