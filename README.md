@@ -60,5 +60,7 @@ This repository documents the development of a social media app using Django and
 
 These stages collectively cover the development of a social media app using Django, addressing various aspects from initial setup and authentication to post management, user profiles, social interactions, and more.
 
+To run the project : python manage.py runserver
+
 
 
