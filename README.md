@@ -37,17 +37,14 @@ This repository documents the development of a social media app using Django and
 - Implementation of user-generated comments listed under posts, with the newest comments displayed first.
 - Implementation of edit and delete buttons for posts, visible only to the post's author.
 - Utilization of Django's generic views and mix-ins to restrict access based on user authorization.
-- Encounter and resolution of code-related issues and typos.
-- Successful implementation of create, read, update, and delete functionality for both posts and comments in the application.
+.- Successful implementation of create, read, update, and delete functionality for both posts and comments in the application.
 
 ## Stage 5: User Profiles Implementation
 
-- Tutorial on implementing user profiles in a Django web application.
-- Utilizes Django signals for automatic profile creation.
+- Implement user profiles in a Django web application.
 - Allows users to create and edit their profiles.
 - Sets up the media directory for profile pictures and default images.
 - Creation of URL patterns, views, and templates for displaying user profiles.
-- Covers server troubleshooting and profile information addition in an admin panel.
 - Introduction of a profile edit view for users.
 
 ## Stage 6: Follow/Unfollow Feature
@@ -58,7 +55,7 @@ This repository documents the development of a social media app using Django and
 
 ## Stage 7: Implementing "Like" and "Dislike" Feature
 
-- Demonstration of how to implement a "like" and "dislike" feature in a Django-based social media platform.
+- Implement a "like" and "dislike" feature in a Django-based social media platform.
 - Creation of "add like" and "add dislike" views for post interaction.
 - Updates to HTML templates for post lists, profiles, and post detail pages to display like and dislike counts.
 
